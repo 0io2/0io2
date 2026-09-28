@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Jana!</h1>
+<h1 align="center"> Hello, I'm Jana!</h1>
 
 <p align="center">
   <b>Cybersecurity Student & White Hat Ethical Hacker</b><br>
@@ -7,14 +7,14 @@
 
 ---
 
-### 💻 About Me
-- 🌱 I’m currently expanding my knowledge in **Cybersecurity, Ethical Hacking, and Software Development**.
-- 🛠️ Working with technologies like Python, C#, Flutter, and network configurations.
-- 🎯 Focused on building robust security awareness and exploring modern vulnerability analysis.
+###  About Me
+-  I’m currently expanding my knowledge in **Cybersecurity, Ethical Hacking, and Software Development**.
+-  Working with technologies like Python, C#, Flutter, and network configurations.
+-  Focused on building robust security awareness and exploring modern vulnerability analysis.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0io2&show_icons=true&theme=tokyonight" alt="Jana's GitHub Stats" />
 </p>
