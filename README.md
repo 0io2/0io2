@@ -27,5 +27,5 @@
 
 ###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0io2&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0io2&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
